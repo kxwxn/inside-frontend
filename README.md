@@ -20,7 +20,7 @@
 
 ### - [List the types of JavaScript variables ](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/javascript-type.md)
 ### - [Differences of var,let and const](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/var-let-const.md)
-### - [Write a pseudocode for a function that calls an external API](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/api-pesudocode.md)
+### - [Write a pseudocode for a function that calls an external API](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/api-pseudocode.md)
 ### - [Block scope and function scope with examples](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/blockScope-fnScope.md)
 ### - [Differences between dynamic and static languages](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/dynamic-static-language.md)
 ### - [How to solve callback hell?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/callback-hell.md)
