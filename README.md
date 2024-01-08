@@ -1,7 +1,7 @@
 # **Interview Tasks**
 
-### - [Javascript의 타입 종류 ](#https://github.com/kxwxn/interviewNtask/blob/main/Notes/javascript-type.md)
-### - [var, let, const 차이]
+### - [Javascript의 타입 종류 ](https://github.com/kxwxn/interviewNtask/blob/main/Notes/javascript-type.md)
+### - [var, let, const 차이]
 ### - [외부 API를 호출하는 함수를 pseudocode로 작성 및 설명]
 ### - [Block scope & Funtion scope 설명]
 ### - [Dynamic and Static languages 차이]
