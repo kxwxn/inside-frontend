@@ -1,4 +1,5 @@
-# **Interview Tasks**
+<center>
+  # **Interview Tasks**
 
 ### - [Javascript의 타입 종류 ](https://github.com/kxwxn/interviewNtask/blob/main/Notes/javascript-type.md)
 ### - [var, let, const 차이](https://github.com/kxwxn/interviewNtask/blob/main/Notes/var-let-const.md)
@@ -32,3 +33,5 @@
 ### - [What is Context Provider?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/context-provider.md)
 ### - [Why use TypeScript?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/typescript-explanation.md)
 ### - [What is GraphQL?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/graphQL.md)
+
+</center>
