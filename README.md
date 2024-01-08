@@ -13,4 +13,22 @@
 ### - [LifeCycle process 와 각 메서드에 대해 설명](https://github.com/kxwxn/interviewNtask/blob/main/Notes/lifeCycle-process.md)
 ### - [Context Provider 는 무엇인가](https://github.com/kxwxn/interviewNtask/blob/main/Notes/context-provider.md)
 ### - [Typescript 를 사용하는 이유](https://github.com/kxwxn/interviewNtask/blob/main/Notes/typescript-explanation.md)
-### - [GraphQL에 대해서](https://github.com/kxwxn/interviewNtask/blob/main/Notes/gtaphQL.md)
+### - [GraphQL에 대해서](https://github.com/kxwxn/interviewNtask/blob/main/Notes/graphQL.md)
+
+
+# **English version**
+
+### - [List the types of JavaScript variables ](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/javascript-type.md)
+### - [Differences of var,let and const](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/var-let-const.md)
+### - [Write a pseudocode for a function that calls an external API](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/api-pesudocode.md)
+### - [Block scope and function scope with examples](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/blockScope-fnScope.md)
+### - [Differences between dynamic and static languages](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/dynamic-static-language.md)
+### - [How to solve callback hell?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/callback-hell.md)
+### - [Why use Redux?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/redux-goal.md)
+### - [Difference between inheritance and composition](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/inheritance-composition.md)
+### - [Difference between Container and Components](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/container-component.md)
+### - [Effect Hooks and React useEffect](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/effectHook-useEffect.md)
+### - [Lifecycle process and each of its method](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/lifeCycle-process.md)
+### - [What is Context Provider?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/context-provider.md)
+### - [Why use TypeScript?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/typescript-explanation.md)
+### - [What is GraphQL?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/graphQL.md)
