@@ -5,7 +5,7 @@
 
 - [Javascript의 타입 종류 ](https://github.com/kxwxn/interviewNtask/blob/main/Notes/javascript-type.md)
 - [var, let, const 차이](https://github.com/kxwxn/interviewNtask/blob/main/Notes/var-let-const.md)
-- [외부 API를 호출하는 함수를 pseudocode로 작성 및 설명](https://github.com/kxwxn/interviewNtask/blob/main/Notes/api-pesudocode.md)
+- [외부 API를 호출하는 함수를 pseudocode로 작성 및 설명](https://github.com/kxwxn/interviewNtask/blob/main/Notes/api-pseudocode.md)
 - [Block scope & Funtion scope 설명](https://github.com/kxwxn/interviewNtask/blob/main/Notes/blockScope-fnScope.md)
 - [Dynamic and Static languages 차이](https://github.com/kxwxn/interviewNtask/blob/main/Notes/dynamic-static-language.md)
 - [Callback Hell 해결 방법](https://github.com/kxwxn/interviewNtask/blob/main/Notes/callback-hell.md)
