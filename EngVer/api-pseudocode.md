@@ -3,8 +3,8 @@
 ### example code
 
 
-<pre>
-```
+
+```javascript
 function callAPI(url, method, data) {
   // 1. Create an HTTP request object.
   let request = new XMLHttpRequest();
@@ -34,4 +34,3 @@ function callAPI(url, method, data) {
 }
 
 ```
-</pre>
