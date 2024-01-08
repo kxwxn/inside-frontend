@@ -27,7 +27,7 @@
 - [Block scope and function scope with examples](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/blockScope-fnScope.md)
 - [Differences between dynamic and static languages](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/dynamic-static-language.md)
 - [How to solve callback hell?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/callback-hell.md)
-- [Why use Redux(state management library)?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/redux-goal.md)
+- [Why use Redux (state management library) ?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/redux-goal.md)
 - [Difference between inheritance and composition](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/inheritance-composition.md)
 - [Difference between Container and Components](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/container-component.md)
 - [Effect Hooks and React useEffect](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/effectHook-useEffect.md)
