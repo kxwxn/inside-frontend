@@ -24,9 +24,11 @@ function callAPI(url, method, data) {
   // 4. 요청을 받습니다.
   request.onload = () => {
     if (request.status === 200) {
+
       // 5. 응답 데이터를 반환합니다.
       return JSON.parse(request.responseText);
     } else {
+
       // 6. 에러를 반환합니다.
       return new Error(request.statusText);
     }
