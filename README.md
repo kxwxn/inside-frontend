@@ -1,6 +1,6 @@
 <center>
   
-# **Interview Tasks**
+# **프론트엔드 개발자로서 알아두면 좋을 것들**
 
 ### - [Javascript의 타입 종류 ](https://github.com/kxwxn/interviewNtask/blob/main/Notes/javascript-type.md)
 ### - [var, let, const 차이](https://github.com/kxwxn/interviewNtask/blob/main/Notes/var-let-const.md)
