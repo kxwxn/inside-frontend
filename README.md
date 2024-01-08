@@ -1,6 +1,6 @@
 # **Interview Tasks**
 
-### - Javascript의 타입 종류
+### - Javascript의 타입 종류 
 ### - var, let, const 차이
 ### - 외부 API를 호출하는 함수를 pseudocode로 작성 및 설명
 ### - Block scope & Funtion scope 설명
