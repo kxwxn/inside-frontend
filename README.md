@@ -17,6 +17,7 @@
 - [Context Provider 는 무엇인가](https://github.com/kxwxn/interviewNtask/blob/main/Notes/context-provider.md)
 - [Typescript 를 사용하는 이유](https://github.com/kxwxn/interviewNtask/blob/main/Notes/typescript-explanation.md)
 - [GraphQL에 대해서](https://github.com/kxwxn/interviewNtask/blob/main/Notes/graphQL.md)
+- [server component & client component](https://github.com/kxwxn/interviewNtask/blob/main/Notes/server-client-component.md)
 
 
 # **🌎English version🌎**
@@ -35,5 +36,7 @@
 - [What is Context Provider?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/context-provider.md)
 - [Why use TypeScript?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/typescript-explanation.md)
 - [What is GraphQL?](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/graphQL.md)
+- [server component & client component](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/server-client-component.md)
+  
 
 </center>
