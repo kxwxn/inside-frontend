@@ -20,6 +20,7 @@
 - [server component & client component](https://github.com/kxwxn/interviewNtask/blob/main/Notes/server-client-component.md)
 - [SSR & CSR](https://github.com/kxwxn/interviewNtask/blob/main/Notes/ssr-csr.md)
 - [Framework vs Library ](https://github.com/kxwxn/interviewNtask/blob/main/Notes/framework-library.md)
+- [a vs Link 태그 의 차이 ](https://github.com/kxwxn/interviewNtask/blob/main/Notes/link-a.md)
 
 
 
@@ -43,6 +44,8 @@
 - [server component & client component](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/server-client-component.md)
 - [SSR & CSR](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/ssr-csr.md)
 - [Framework vs Library ](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/framework-library.md)
+- [a vs Link ](https://github.com/kxwxn/interviewNtask/blob/main/EngVer/link-a.md)
+
 
 
   
